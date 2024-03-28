@@ -1,3 +1,5 @@
+# ConFUse-net
+
 Medical image segmentation, which involves identifying regions of interest in medical images, is an important tool in the diagnosis, treatment, and monitoring of various ailments. For much of the past decade, convolutional neural networks (CNN’s) have been used with great success for segmentation tasks. In particular a U-shaped en- coder/decoder CNN architecture called U-net has become popular for medical image segmentation. 
 
 Although U-net performs very well for many im- age segmentation tasks, its performance is con- strained by one inherent limitation: it struggles to capture long-range dependencies. Inspired by the recent success of the Vision Transformer, a new type of segmentation network has appeared in the literature which combines aspects of U-net and Transformer architectures. In this paper, we analyze three such hybrid U-net/Transformer ar- chitectures: UTNet, UCTransNet, and Swin-Unet. 
